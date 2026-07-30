@@ -32,3 +32,5 @@ https://youtu.be/CRU0zCUyx6w
 ## 📂 Evidencias
 
 Las capturas del proceso y los prompts utilizados se encuentran en este repositorio.
+- 📘 [Prompt del Manual](Prompts/Manual_Técnico_Prompts.pdf)
+- 📄 [Prompt del Trifoliar](prompts/Trifoliar_Prompt.pdf)
