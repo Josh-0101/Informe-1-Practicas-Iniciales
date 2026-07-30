@@ -10,13 +10,13 @@ https://canva.link/nxx0r3tqgdi1omx
 
 ## 📄 Trifoliar
 
-https://www.canva.com/design/YYYYYYYY/view
+https://canva.link/nxx0r3tqgdi1omx
 
 ---
 
 ## 🎥 Video
 
-
+https://youtu.be/CRU0zCUyx6w
 
 ---
 
