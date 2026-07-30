@@ -4,7 +4,7 @@
 
 ## 📖 Manual
 
-https://canva.link/nxx0r3tqgdi1omx
+https://canva.link/eq8olpibyalj8ev
 
 ---
 
